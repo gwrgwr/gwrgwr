@@ -35,8 +35,8 @@ I'm mainly a Flutter Developer, i've been studying Flutter for a few months, and
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg">
 </div>
