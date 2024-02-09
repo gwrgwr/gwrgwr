@@ -43,3 +43,14 @@ I'm mainly a Flutter Developer, i've been studying Flutter for a few months, and
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40px" width="40px" title="CSS" alt="CSS">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40px" width="40px" title="JS" alt="JS">
 </div>
+
+---
+
+### :fire: My Stats :
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gwrgwr&theme=dark&background=000000)](https://git.io/streak-stats)
+
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwrgwr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
