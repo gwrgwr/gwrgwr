@@ -35,8 +35,11 @@ I'm mainly a Flutter Developer, i've been studying Flutter for a few months, and
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" height="40px" width="40px" title="Flutter" alt="Flutter">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" height="40px" width="40px" title="Dart" alt="Dart">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40px" width="40px" title="Git" alt="Git">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" height="40px" width="40px" title="Firebase" alt="Firebase">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40px" width="40px" title="HTML" alt="HTML">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40px" width="40px" title="CSS" alt="CSS">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40px" width="40px" title="JS" alt="JS">
 </div>
