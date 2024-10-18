@@ -38,7 +38,6 @@ I'm mainly a Flutter, Java and React Developer, i've been studying these 3 for a
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" height="60px" width="60px" title="Flutter" alt="Flutter">
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" height="60px" width="60px" title="Dart" alt="Dart">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="60px" width="60px" title="Git" alt="Git">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" height="60px" width="60px" title="Firebase" alt="Firebase">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="60px" width="60px" title="HTML" alt="HTML">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="60px" width="60px" title="CSS" alt="CSS">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="60px" width="60px" title="JS" alt="JS">
