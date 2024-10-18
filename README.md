@@ -17,10 +17,10 @@ Hello There ✌️
 ---
 
 I'm Murilo José
-and I'm Mobile Developer. 📱
+and I'm FullStack Developer.
 
 
-I'm mainly a Flutter Developer, i've been studying Flutter for a few months, and I fell in love with the framework. But in the future, I think of studying React Native.
+I'm mainly a Flutter, Java and React Developer, i've been studying these 3 for a few months, and I fell in love with them.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
